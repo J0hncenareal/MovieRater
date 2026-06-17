@@ -74,6 +74,6 @@ MovieRater/
 │           └── com/
 │               └── movierater/
 │                   └── MovieRater.java # Main application logic
-├── movierater.db             # SQLite database file (generated on first run)
+├── movierater.db             # SQLite database file 
 └── README.md                 # This file
 ```
